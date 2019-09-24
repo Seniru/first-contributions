@@ -16,6 +16,7 @@
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
+-[Angel Lakra](https://github.com/angel112)
 - [Long Pham](https://github.com/phaml2995)
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
@@ -85,6 +86,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Dominic London](https://github.com/djlondon)
 - [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
+- [Janeth Fernando](https://github.com/janethavi)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
 - [dexetrous](https://github.com/deXetrous)
@@ -119,6 +121,7 @@ Hammad Qureshi
 - [Jack Bicknell](https://github.com/jackbicknell14)
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
+- [Rajitha Warusavitarana](https://github.com/rajitha1998)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
 - [George Yu](https://github.com/DsinCDev)
@@ -324,6 +327,7 @@ Haris Siddiqui
 - [Brandon L. Locke](https://github.com/brandonllocke/)
 - YuriyCherniy
 - Joseph Pilla
+- Shahaf Mordechay
 - Muskan Hoondlani
 - Colin Fischer(https://github.com/cfischera)
 - [Ken Do](https://github.com/ken-do/)
