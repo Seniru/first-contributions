@@ -15713,6 +15713,7 @@ Stephan Sharpe
 - [divanshu](https://github.com/ddivanshu)
 - [SudeepaGo](https://github.com/SudeepaGo)
 - [Star](https://github.com/yabdyli)
+- nkzlkk
 - [Joseph Spinelli] (https://github.com/joespinelli7)
 - [Vince Grilli](https://github.com/VinceGrilli)
 - [Farhat SH](https://github.com/farhatcode)
@@ -16018,3 +16019,4 @@ Mário Baltazar
 - [RN2208](https://github.com/rn2208/)
 - [prakx87](https://github.com/prakx87/)
 - [Schitiz](https://github.com/Schitiz)
+- [karlangadas](https://github.com/karlangadas)
