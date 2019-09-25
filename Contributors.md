@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
@@ -30,6 +30,7 @@ saad hassan (https://github.com/saadhassan99)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
+- [Samantha Hott](https://github.com/shott6)
 - [Siddharth Kundu](https://github.com/sid995)
 - [lisalidroit](https://github.com/lisalidroit))
  -[Dheerajreddy](https://github.com/accounted)
@@ -46,6 +47,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Alexis Huerta](https://github.com/alehuer07)
 - [Lyndi Castrejon](https://github.com/lyndic)
 - [Dhruv Sawarkar](https://github.com/thatcathatechat)
+- [Jill Oestreicher] (https://github.com/jilloestreicher)
 - [Justin Kim](https://github.com/naznsan)
 - [Abhishek Ramani](https://github.com/aramani35)
 - [Matheus Lamezon](https://github.com/Lamezon)
@@ -58,6 +60,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Abdul] ( https://github.com/Abdul-Omar)
 - [Divyesh Jain](https://github.com/BlitW0)
 - [Gavin Foutz](https://github.com/GavinAF)
+- [SBVKrishna](https://github.com/sbvkrishna)
 - [Hunar Jain](https://github.com/hunarjain007)
 - [Shahnawaz Hossan](https://github.com/PabonSEC)
 - [Mohiuddin Ahmed](https://github.com/mohiuddin06617)
@@ -229,6 +232,7 @@ Haris Siddiqui
 - Vinh-Luu
 - Artem Yacenko
 - Calum O'Donoghue 
+- [Karunam Goyal](https://github.com/karunamgoyal)
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - [Masoud Bolhassani](https://github.com/msoodb)
 - Randil Tennakoon (https://github.com/randiltennakoon)
@@ -291,6 +295,7 @@ Haris Siddiqui
 - [Anubhav Mishra](https://github.com/anubhavm55)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Beginner]
+- Heya
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123) 
@@ -1072,6 +1077,7 @@ Stephan Sharpe
 - [Ignacio Reyna](https://github.com/ignacioreyna)
 - zwitter1802
 - [Ahmed Lebba](https://github.com/Kungfoosian)
+- [Davis Raimon](https://github.com/davisraimon)
 - [Goh Wei Rong](https://github.com/Qooooo)
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens](https://github.com/timfi)
@@ -14962,6 +14968,7 @@ Stephan Sharpe
 - [James Au](https://github.com/jamesaucode)
 - Ben Walton
 - [Tulsi Jain](https://github.com/tulsiksng)
+- [Uyin Solomon](https://github.com/rootleet)
 - [Brandon Allen](https://github.com/eldon2)
 - [Cassandra Lee](https://github.com/yieng)
 - [Jordi Hoven](https://github.com/Jordakoes)
@@ -16008,3 +16015,4 @@ Mário Baltazar
 - [Marcao F](https://github.com/mackmak/) 
 - [RN2208](https://github.com/rn2208/)
 - [prakx87](https://github.com/prakx87/)
+- [Schitiz](https://github.com/Schitiz)
