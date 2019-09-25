@@ -16010,6 +16010,7 @@ Mário Baltazar
 - [Susan Maas](https://github.com/susanmaas)
 - [Ronnie](https://github.com/ro2nie)
 - [Orachun]
+- [Anna Sherlock](https://github.com/alsherlock)
 - [Jordan Stubblefield](https://github.com/jstubb7939)
 - [Rajendrasinh Parmar](https://github.com/RajendrasinhParmar)
 - [Muktadir Khan](https://github.com/muktadirkhan889)
@@ -16022,3 +16023,4 @@ Mário Baltazar
 - [prakx87](https://github.com/prakx87/)
 - [Schitiz](https://github.com/Schitiz)
 - [karlangadas](https://github.com/karlangadas)
+- [Kyle Moreira](https://github.com/NotKharon/)
