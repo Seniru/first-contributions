@@ -79,6 +79,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Nithin Muthukumar](https://github.com/nithinmuthukumar)
 - [herepete] (https://github.com/herepete)
 - [Vaibhav Pandey](https://github.com/vaibhap1)
+- [Zain Dar] (https://github.com/zainsalmandar)
 - [sadrab10](https://github.com/sadrab10)
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Jake Mittleman](https://github.com/jakemittleman)
@@ -129,6 +130,7 @@ Hammad Qureshi
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Luc Berthiaume
+- [Jake Murray](https://github.com/JMurray90)
 - Here2Dance (http://github.com/Here2Dance)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
@@ -16005,3 +16007,4 @@ Mário Baltazar
 - [gerosprime](https://github.com/gerosprime)
 - [Marcao F](https://github.com/mackmak/) 
 - [RN2208](https://github.com/rn2208/)
+- [prakx87](https://github.com/prakx87/)
