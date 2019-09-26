@@ -335,6 +335,7 @@ Haris Siddiqui
 - [Richard Hu](https://github.com/rhu2001/)
 - [f0hss](https://github.com/f0hss/)
 - czx229
+- [Abruuh_ham](https://github.com/abruuham)
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
 - [Alexsander Vinogradov](https://github.com/vinogradov-am/)
@@ -1742,6 +1743,7 @@ Stephan Sharpe
 - [JThissen](https://github.com/JThissen)
 - [Tyler Bromley](https://github.com/TylerBromley)
 - [Lucas Lopes](https://github.com/thuraam)
+- [Jingci Wang](https://github.com/Jingciii)
 - [Juuso Solonen](https://github.com/juusolonen)
 - [Joseph Rodrigues](https://github.com/JostonR)
 - [Narethmarch Venmey](https://github.com/mw112)
@@ -8805,6 +8807,7 @@ Stephan Sharpe
 - [Jonathan Burk](https://github.com/JMB2K)
 - [Robert Yuen](https://github.com/rhyuen)
 - [Echoskope](https://github.com/echoskope)
+- [Otavio Pires](https://github.com/otaviopires)
 - [Kevin Madison](https://github.com/kevinlmadison)
 - [Dima Mukhin](https://github.com/DimaMukhin)
 - [Echessa](https://github.com/echessa)
@@ -16041,3 +16044,4 @@ Mário Baltazar
 - [Paolo Manili] (https://github.com/Delta-38)
 - [Hvassaa] (https://github.com/Hvassaa)
 - [Gustavo Silva] (https://github.com/gstvds)
+- [Sofia Rivas](https://github.com/sofiarivas)
