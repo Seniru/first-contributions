@@ -21,6 +21,7 @@
 -[shrutika](https://github.com/shrutikamahale)
 -[Angel Lakra](https://github.com/angel112)
 - [Long Pham](https://github.com/phaml2995)
+- [Tyson LaBree](https://github.com/labree0)
 - [Irfan Shaikh]
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
@@ -16039,3 +16040,4 @@ Mário Baltazar
 - [Ela Bogucka] (https://github.com/ebogucka)
 - [Paolo Manili] (https://github.com/Delta-38)
 - [Hvassaa] (https://github.com/Hvassaa)
+- [Gustavo Silva] (https://github.com/gstvds)
