@@ -26,6 +26,7 @@
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
 - [karpiuMG](https://github.com/karpiuMG)
+- [MarieSell](https://github.com/MarieSell)
 - [Anna Dorigo](https://github.com/anna-dorigo)
 - [sm0rux](https://github.com/sm0rux)
 - [shinpark97](https://github.com/shinpark97)
@@ -16045,3 +16046,4 @@ Mário Baltazar
 - [Hvassaa] (https://github.com/Hvassaa)
 - [Gustavo Silva] (https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
+- [Blaine Bateman](https://github.com/eafpres)
