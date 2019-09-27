@@ -15,6 +15,7 @@
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
 - [Guilherme Balog](https://github.com/guilhermebalog)
+- [Gustavo Castro](https://github.com/gacsnic)
 
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
@@ -2367,6 +2368,7 @@ Stephan Sharpe
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
+- [Akshay](https://github.com/akshay7066)
 - [Harry Lum](https://github.com/lilharry)
 - [Ravishankar Sivasubramaniam](https://github.com/ravishan16)
 - [Tong Li](https://github.com/LastStranger)
