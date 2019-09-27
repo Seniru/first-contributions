@@ -3,6 +3,7 @@
 - [aiden](https://github.com/acdlbs)
 - [priya]
 - [sigmund](https://siggymc.deviantart.com)
+- [Eddenm]
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [igor](https://github.com/igorshiota)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
@@ -7582,6 +7583,7 @@ Stephan Sharpe
 - [Joe Wagner](https://github.com/joseph-wagner)
 - [Nick Khoury](https://github.com/nick-khoury)
 - [Michael Fulton](https://github.com/frenchfulton94)
+- [renantarouco] (https://github.com/renantarouco)
 - [Andrew Um](https://github.com/ndrwum)
 - [Akshay Chopra](https://github.com/akshaychopra96)
 - [Arturo Muller](https://github.com/arturomuller)
