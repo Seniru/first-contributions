@@ -14,6 +14,7 @@
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
+- [Dhanush-05](https://github.com/Dhanush-05)
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
@@ -68,6 +69,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Jill Oestreicher] (https://github.com/jilloestreicher)
 - [Justin Kim](https://github.com/naznsan)
 - [Jonathan Sims](https://github.com/jds0062)
+- [learnskies](https://github.com/learnskies)
 - [Abhishek Ramani](https://github.com/aramani35)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
@@ -2101,6 +2103,7 @@ Stephan Sharpe
 - [Raymond Lo](https://github.com/rayy-lo)
 - Jerry Zhang
 - Darrin Deal
+- [Samuele Bella](https://github.com/Novaenn)
 - Manuprasad M
 - [Shawn Austin](https://github.com/JS-Austin)
 - [Aayush Gupta](https://github.com/aayushgupta97)
