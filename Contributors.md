@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
@@ -6,7 +6,10 @@
 - [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
 - [sevonefive]
+- [Abhishek Jain] (https://github.com/maniac-tech)
+- [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
+- [Uneet Patel](https://github.com/Uneetpatel7)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
@@ -17,6 +20,7 @@
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
+- [Shubham Sharma](https://github.com/sharmajsr)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [Dhanush-05](https://github.com/Dhanush-05)
 - [ykhade](https://github.com/ykhade)
@@ -31,6 +35,7 @@
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
 -[pravallika](https://github.com/pravzzyy)
+-[Srinivas (SriNandan33)](https://github.com/SriNandan33)
 -[Angel Lakra](https://github.com/angel112)
 - [Long Pham](https://github.com/phaml2995)
 - [Tyson LaBree](https://github.com/labree0)
@@ -170,6 +175,7 @@ Hammad Qureshi
 - [Rajitha Warusavitarana](https://github.com/rajitha1998)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
+- [Siddharth Saha](https://github.com/trunc8) 
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Luc Berthiaume
@@ -256,6 +262,7 @@ Haris Siddiqui
 - Shahi
 - Rhonin
 - [Soumyajit Deb](https://github.com/Maxz2136)
+- [Puneet Aggarwal](https://github.com/puneet222)
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
   Aviad Ariel
@@ -770,6 +777,7 @@ Haris Siddiqui
 - Christian Reyes
 - Yallop
 - [Nasim](https://github.com/nasimUddin)
+- [sixthsant]
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Adithya S](https://github.com/Adithya188288))
 - [Davy Chan](https://github.com/dcastellon0001)
@@ -16119,3 +16127,4 @@ Mário Baltazar
 - [Vishwanath Joshi](https://github.com/vishnitin)
 - [WxBDM](https://github.com/WxBDM)
 - [Faraz Khan](https://github.com/Frk4)
+- [Samrat19](https://github.com/samrat19)
