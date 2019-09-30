@@ -20,9 +20,11 @@
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
+- [Jerome Biggins] (https://github.com/romeyb76)
 - [Shubham Sharma](https://github.com/sharmajsr)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [Dhanush-05](https://github.com/Dhanush-05)
+- [wwintermute](https://github.com/wwintermute)
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
@@ -156,6 +158,7 @@ Hammad Qureshi
 - [Drashti Modasara](https://github.com/drashti1712)
 - [Joseph](https://github.com/Joseph7695/)
 - [joern89](https://github.com/joern89/)
+- [bvineyar](https://github.com/bvineyar/)
 - [trayscrape]
 - [Zygimantas Baltutis](https://github.com/stambus)
 - [Courtenay Wakil](https://github.com/cwakil17)
@@ -315,6 +318,7 @@ Haris Siddiqui
 - [Graham Guthrie](https://github.com/grahamguthrie99)
 - Anshuman Singh
 - Steefan Raveenthiran
+  [Soumyajit Deb]
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Leo Schleier](https://github.com/ll30n4rd0)
@@ -6002,6 +6006,7 @@ Stephan Sharpe
 - [Videogamedunkey](https://github.com)
 - [Ryan Robinson](https://github.com/Ryan00000)
 - [anoushka](https://github.com/Anoushka-Anu)
+- [Anand Sankritya](https://github.com/snkritya)
 - [john](https://github.com/forwinder15)
 - [Aldo Paul Carranza - Hitzoft](https://github.com/hitzoft)
 - [Armaan Singh Bhullar](https://github.com/ArmaanBhullar)
@@ -16128,3 +16133,5 @@ Mário Baltazar
 - [WxBDM](https://github.com/WxBDM)
 - [Faraz Khan](https://github.com/Frk4)
 - [Samrat19](https://github.com/samrat19)
+- [theNaavik](https://github.com/theNaavik)
+- [Vinicius Philot](https://github.com/vphilot)
