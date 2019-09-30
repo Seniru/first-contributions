@@ -6,6 +6,7 @@
 - [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
 - [sevonefive]
+- [Rithik](https://github.com/rithikmali)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
@@ -103,6 +104,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Brendan Musick](https://github.com/B-Musick)
 - [prince1508](http://github.com/prince1508)
 - [HRK_Codes](https://github.com/HRK31)
+- [tommy](https://github.com/thoyvo/)
 - [Shanto Mathew](https://github.com/shanto12)
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
@@ -321,6 +323,7 @@ Haris Siddiqui
 - [vivaan Rajput](https://github.com/vivaanxr)
 - [Aakash Jhawar](https://github.com/aakashjhawar)
 - [Pragat Pandya](https://githubcom/psp2103)
+- [Singam Bhargav Ram](https://github.com/SBhargav15)
 - [Je Hyun Kim](https://github.com/je-hyun)
 - [Soumick Pyne] (https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
