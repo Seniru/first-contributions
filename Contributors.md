@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [azamat] (https://github.com/tikenov)
@@ -17,7 +17,9 @@
 - [Claudia Vargas] (https://github.com/claucvk)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
+- [Chris Yu](https://github.com/chrisayu321)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
+- [Stacy Holtz] (https://github.com/stacyholtz6)
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
@@ -87,6 +89,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Justin Kim](https://github.com/naznsan)
 - [Jonathan Sims](https://github.com/jds0062)
 - [learnskies](https://github.com/learnskies)
+- [Md azad khan](https://github.com/azad1221)
 - [Abhishek Ramani](https://github.com/aramani35)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
@@ -416,6 +419,7 @@ Haris Siddiqui
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
+- [Jackson Elfers](https://github.com/jackson-elfers)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
 - [Steven Martinez] (https://github.com/stamarty)
@@ -2164,6 +2168,7 @@ Stephan Sharpe
 - [Luke Stroud](https://github.com/Duvanchi)
 - Steve Berryman
 - [Joel DeSante](https://github.com/JoelDesante)
+- [Anuj Yadav](https://github.com/anuj952)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
 - Giovanni
@@ -16138,3 +16143,4 @@ Mário Baltazar
 - [theNaavik](https://github.com/theNaavik)
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
+- [franzqat](https://github.com/franzqat)
