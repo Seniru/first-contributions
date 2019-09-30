@@ -119,6 +119,7 @@ Hammad Qureshi
 - [Wen](https://github.com/wenshuin)
 - [dexetrous](https://github.com/deXetrous)
 - [Dharmil Parekh](https://github.com/dVp007)
+- [Sau Kamat](https://github.com/saikamat)
 - [Alejandro Rojas](https://github.com/Xarasho)
 - [Martin Shields](https://github.com/marty-shields)
 - [Szaszko David](https://github.com/Szeszkoo)
@@ -16095,3 +16096,4 @@ Mário Baltazar
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
+- [Vishwanath Joshi](https://github.com/vishnitin)
