@@ -3,6 +3,7 @@
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
+- [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
 - [sevonefive]
 - [sigmund](https://siggymc.deviantart.com)
@@ -10490,6 +10491,7 @@ Stephan Sharpe
 - [Simon Kerkmann](https://github.com/siker102)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
 - [Maged Milad](https://github.com/MagedMilad)
+- [Alysson Alvaran](https://github.com/alyssonalvaran)
 - [Lavaskie Clark](https://github.com/LVSKEClark90)
 - [Noam The Great](https://github.com/DragonPie635)
 - [Divyansh Batham](https://github.com/DivyanshBatham)
