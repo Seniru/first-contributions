@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
@@ -28,6 +28,7 @@
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
 - [Jerome Biggins] (https://github.com/romeyb76)
+- [Adrian Kristanto](https://github.com/adriankristanto)
 - [Shubham Sharma](https://github.com/sharmajsr)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [Dhanush-05](https://github.com/Dhanush-05)
@@ -36,6 +37,7 @@
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
+- [Kyle Knickerbocker](https://github.com/ckylek)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
@@ -181,6 +183,7 @@ Hammad Qureshi
 - [Paul Ozyzniewski](https://github.com/OziOcb)
 - [Naman Jain] (https://github.com/namanj123in)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
+- [Kusal Priyanka Perera](https://github.com/KusalPriyanka)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Boom Kularb](https://github.com/boomsquared)
 - [Binh Trinh](https://github.com/binhthaitrinh)
@@ -12182,6 +12185,7 @@ Stephan Sharpe
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
 - [Raju Kalidindi](https://github.com/RajuKalidindi)
+- [Simon Poll](https://github.com/Moonstroke82)
 - Stole P
 - [Em Labor](https://github.com/emlabor)
 - [Kieran Ramnarine](https://github.com/DongerZone)
@@ -13984,6 +13988,7 @@ Stephan Sharpe
 - [Mohammed Abul Shoeb](https://github.com/alshoeb)
 - [Kolomu](https://github.com/kolomu)
 - Jatin Sharma
+-Abhishek Prajapati(https://github.com/blackviking27)
 - [Ashish Yadav](https://github.com/ashishyadav400)
 - [Rachit Pahwa](https://github.com/rachitpahwa08)
 - [sanspace](https://github.com/sanspace)
@@ -16160,3 +16165,4 @@ Mário Baltazar
 - [Sagar Datta](ttps://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
+- [Dilina Dehigama](https://github.com/dilinade)
