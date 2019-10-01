@@ -6,6 +6,7 @@
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
+- [Sakshi Sinha](https://github.com/RealRadOne)
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
@@ -16144,3 +16145,4 @@ Mário Baltazar
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
+- [Rugved](https://github.com/rugved)
