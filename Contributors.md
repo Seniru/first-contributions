@@ -7,6 +7,7 @@
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
+- [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
@@ -16166,3 +16167,5 @@ Mário Baltazar
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
 - [Dilina Dehigama](https://github.com/dilinade)
+- [Miyuru Thathsara](https://github.com/MiyuruThathsara)
+- [Gord Bolli](https://github.com/gbolli)
